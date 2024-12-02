@@ -1,0 +1,113 @@
+/* Container Utama */
+.home-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1e1e2c; /* Warna hijau gelap */
+    padding: 50px;
+    height: auto;
+    color: white;
+    font-family: poppins;
+    font-weight: bold;
+    animation: fadeIn 1s ease-out; /* Animasi masuk */
+}
+
+/* Bagian Teks */
+.home-text {
+    flex: 1;
+    padding-right: 50px;
+}
+
+.home-welcome {
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    color: #ffffff; /* Warna abu-abu terang */
+}
+
+.home-title {
+    font-size: 64px;
+    font-family: futura rounds;
+    font-weight: bold;
+    margin-bottom: 20px;
+    line-height: 1.2;
+}
+
+.home-price {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.home-button {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.home-button:hover {
+    background-color: white;
+    color: #023b35;
+}
+
+/* Bagian Gambar */
+.home-images {
+    flex: 1;
+    position: relative; /* Relatif terhadap container */
+    display: flex;
+    justify-content: center; /* Menjaga gambar berada di tengah */
+    align-items: center; /* Rata tengah vertikal */
+}
+
+/* Gambar Utama */
+.image-main {
+    width: 600px;
+    height: 800px;
+    object-fit: cover;
+    border-radius: 10px;
+    position: relative; /* Relatif terhadap .home-images */
+    z-index: 2; /* Gambar utama berada di depan */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    margin-right: -30px; /* Geser untuk tumpang tindih */
+    transition: transform 0.3s ease-in-out;
+}
+
+.image-main:hover {
+    transform: scale(1.05); /* Efek zoom saat hover */
+}
+
+/* Gambar Sekunder */
+.image-secondary {
+    width: 400px;
+    height: 600px;
+    object-fit: cover;
+    border-radius: 10px;
+    position: relative;
+    z-index: 1; /* Gambar sekunder di belakang */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    transform: translate(-50px, 20px); /* Geser horizontal (-50px) dan vertikal (20px) */
+    transition: transform 0.3s ease-in-out;
+}
+
+.image-secondary:hover {
+    transform: scale(1.05) translate(-50px, 20px); /* Efek zoom saat hover */
+}
+
+/* Animasi Fade-in */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(30px); /* Mulai dari bawah */
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0); /* Kembali ke posisi normal */
+    }
+}

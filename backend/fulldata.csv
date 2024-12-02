@@ -1,0 +1,200 @@
+timestamp,nama,umur,jenis_kelamin,lokasi,status_pernikahan,pekerjaan,jenis_kopi,harga_kopi,rasa_kopi_yang_disuka,preferensi_penyajian,waktu_pembelian,frekuensi_pembelian,nama_kedai
+2024,M Bagas ,20,Pria,Kecamatan Gunung Anyar,Belum menikah,Mahasiswa ,Kopi Hitam,15000,Pahit,Panas,Sore,4,Kedai Kopi Tiga delapan
+2024,Wijaya Kusuma,35,Pria,Kecamatan Pabean Cantian,Sudah menikah,Karyawan Swasta,Kopi Hitam,12000,Pahit,Panas,Pagi,5,Kedai Happy
+2024,Erlan Rizky,38,Pria,Kecamatan Semampir,Sudah menikah,Manajer Hotel,Kopi Hitam,15000,Pahit,Panas,Pagi,8,as2tik coffee
+2024,Cahyo Adi Kusumo,40,Pria,Kecamatan Semampir,Sudah menikah,Pekerja Pabrik,Kopi Hitam,14000,Pahit,Panas,Pagi,6,as2tik coffee
+2024,Kelvin Chaniago,33,Pria,Kecamatan Krembangan,Sudah menikah,Direktur,Kopi Hitam,20000,Pahit,Panas,Pagi,5,Saat Seduh
+2024,Raka Ghani,35,Pria,Kecamatan Krembangan,Sudah menikah,Manajer Keuangan,Kopi Hitam,13000,Pahit,Panas,Pagi,7,Saat Seduh
+2024,Ridho Alghifari,30,Pria,Kecamatan Jambangan,Sudah menikah,Teknisi Elektronik,Kopi Hitam,12000,Pahit,Panas,Pagi,6,Kedai Kopi Alengka
+2024,Ahmad Fajar,36,Pria,Kecamatan Jambangan,Sudah menikah,Montir Mobil,Kopi Hitam,15000,Pahit,Panas,Pagi,9,Kedai Kopi Alengka
+2024,Budiansyah,29,Pria,Kecamatan Dukuh Pakis,Sudah menikah,Staff Keuangan,Kopi Hitam,12000,Pahit,Panas,Pagi,5,Garasi Kopi 75
+2024,Atthala Naufal,36,Pria,Kecamatan Tambaksari,Sudah menikah,Wirausaha,Kopi Susu,12000,Manis,Panas,Pagi,6,Grandfather
+2024,Ridho Ahmad,34,Pria,Kecamatan Tambaksari,Sudah menikah,Staff Accounting,Kopi Susu,14000,Manis,Panas,Pagi,8,Grandfather
+2024,Wahid Rahman,28,Pria,Kecamatan Gubeng,Sudah menikah,Jurnalistik,Kopi Susu,15000,Manis,Panas,Pagi,4,Urban Latte
+2024,Ahmad Fahreza,35,Pria,Kecamatan Gubeng,Sudah menikah,Manajer Keuangan,Kopi Susu,14000,Manis,Panas,Pagi,5,Urban Latte
+2024,Sayiidin,42,Pria,Kecamatan Rungkut,Sudah menikah,Human Resource Development,Kopi Susu,18000,Manis,Panas,Pagi,7,Patdua
+2024,Zafran Septiano,31,Pria,Kecamatan Rungkut,Sudah menikah,Staff Administrasi,Kopi Susu,13000,Manis,Panas,Pagi,6,Patdua
+2024,Nauval Qiandra,28,Pria,Kecamatan Rungkut,Sudah menikah,Quality Control,Kopi Susu,12000,Manis,Panas,Pagi,6,Kanaka
+2024,Haikal Sulaiman,32,Pria,Kecamatan Tenggilis Mejoyo,Sudah menikah,Staff Marketing,Kopi Susu,13000,Pahit,Panas,Siang,6,Kopitagram
+2024,Jeremy Nichol,34,Pria,Kecamatan Tenggilis Mejoyo,Sudah menikah,Sales,Kopi Susu,13000,Pahit,Panas,Siang,6,Kopitagram
+2024,Fikri Hidayah,45,Pria,Kecamatan Gunung Anyar,Sudah menikah,Staff Keuangan,Kopi Susu,13000,Pahit,Panas,Siang,6,Kedai Kopi Tiga delapan
+2024,Fajar Pengestu,38,Pria,Kecamatan Gunung Anyar,Sudah menikah,Staff Marketing,Espresso,13000,Pahit,Panas,Siang,7,Bento Kopi
+2024,Raka Faudzi,36,Pria,Kecamatan Gunung Anyar,Sudah menikah,Tenaga Pendidik,Espresso,16000,Pahit,Panas,Siang,7,Fisixty
+2024,Aidan Rizky,35,Pria,Kecamatan Sukolilo,Sudah menikah,Manajer Pengembangan Bisnis,Espresso,25000,Pahit,Panas,Siang,5,Pohon Kopi
+2024,Bintang Pratama,34,Pria,Kecamatan Sukolilo,Sudah menikah,Manajer Produk,Espresso,26000,Pahit,Panas,Siang,4,Pohon Kopi
+2024,Daniel Alexander,36,Pria,Kecamatan Mulyorejo,Sudah menikah,Konsultan Hubungan Internasional,Espresso,30000,Pahit,Panas,Siang,7,Tomoro
+2024,Hadi Wijaya,46,Pria,Kecamatan Mulyorejo,Sudah menikah,Konsultan Kesehatan,Espresso,22000,Pahit,Panas,Siang,5,Ryu Coffee Shop
+2024,Ryan Thomas,48,Pria,Kecamatan Sawahan,Sudah menikah,Desainer Grafis,Espresso,25000,Pahit,Panas,Siang,3,Kopi Imaji
+2024,Victor Hugo,50,Pria,Kecamatan Sawahan,Sudah menikah,Insinyur,Espresso,30000,Pahit,Panas,Siang,4,Kopi Imaji
+2024,Thomas James,55,Pria,Kecamatan Wonokromo,Sudah menikah,Arsitek,Espresso,36000,Pahit,Panas,Siang,15,brain coffee
+2024,Bima Prasetya,23,Pria,Kecamatan Wonokromo,Belum menikah,Mahasiswa,Espresso,23000,Pahit,Panas,Siang,5,brain coffee
+2024,Cahyo Wibowo,22,Pria,Kecamatan Dukuh Pakis,Belum menikah,Mahasiswa/Pelajar,Americano,24000,Pahit,Panas,Siang,5,Garasi Kopi 75
+2024,Fikri Mamlet,23,Pria,Kecamatan Karangpilang,Belum menikah,Mahasiswa,Americano,23000,Pahit,Panas,Siang,6,Kopi Imaji
+2024,Gilang Prabowo,20,Pria,Kecamatan Karangpilang,Belum menikah,Mahasiswa,Americano,17000,Pahit,Panas,Siang,6,Kopi Imaji
+2024,Indra Saputra,18,Pria,Kecamatan Wiyung,Belum menikah,Pelajar,Americano,15000,Pahit,Panas,Siang,5,bogota kopi
+2024,Jaka Putra,18,Pria,Kecamatan Wiyung,Belum menikah,Pelajar,Americano,17000,Pahit,Panas,Siang,5,bogota kopi
+2024, Vina Amara Putri,32,Wanita,Kecamatan Wiyung,Sudah menikah,Analis Data,Americano,17000,Asam,Dingin,Sore,6,bogota kopi
+2024,Ulya Sari Wulan,56,Wanita,Kecamatan Wonocolo,Sudah menikah,Manajer Keuangan,Americano,23000,Asam,Dingin,Sore,8,kopi soe
+2024,Rina Ayu Pratama,44,Wanita,Kecamatan Wonocolo,Sudah menikah,Analis Data,Americano,21000,Asam,Dingin,Sore,6,kopi soe
+2024,Qonita Lestari Putri,43,Wanita,Kecamatan Gayungan,Sudah menikah,Penulis,Americano,33000,Asam,Dingin,Sore,5,Lini kopi
+2024,Hani Nurul Hidayah,55,Wanita,Kecamatan Gayungan,Sudah menikah,Konsultan Bisnis,Cappuccino,24000,Asam,Dingin,Sore,6,Rocektman Coffee
+2024,Elina Pramesti Sari,53,Wanita,Kecamatan Jambangan,Sudah menikah,Ahli Kesehatan Masyarakat,Cappuccino,16000,Asam,Dingin,Sore,5,Kedai Kopi Alengka
+2024, Xena Putri Wulandari,34,Wanita,Kecamatan Jambangan,Sudah menikah,Asisten Administrasi,Cappuccino,25000,Asam,Dingin,Sore,5,Kopi djagongan
+2024,Kanya Rini Putri,35,Wanita,Kecamatan Jambangan,Sudah menikah,Konselor Pendidikan,Cappuccino,23000,Asam,Dingin,Sore,5,Kedai Kopi Alengka
+2024,Adriana Putri Anindita,23,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Cappuccino,21000,Asam,Dingin,Sore,4,Kopi Kenangan
+2024,Bella Olivia Santoso,24,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Cappuccino,23000,Asam,Dingin,Sore,5,Kopi Kenangan
+2024,Catherine Althea Prabowo,19,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Cappuccino,34000,Asam,Dingin,Sore,7,Kopi Kenangan
+2024,Hanna Rizky Ramadhani,21,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Cappuccino,20000,Asam,Dingin,Sore,4,Belikopi
+2024,Jasmine Putri Melati,22,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Cappuccino,21000,Asam,Dingin,Sore,3,Belikopi
+2024,Rina Maharani Lestari,17,Wanita,Kecamatan Tandes,Belum menikah,Pelajar,Latte,29000,Asam,Dingin,Sore,8,Hue Coffee
+2024,Ulfah Rina Amalia,17,Wanita,Kecamatan Dukuh Pakis,Belum menikah,Pelajar,Latte,25000,Manis,Dingin,Malam,6,Kikopi
+2024,Vera Oktaviani Pramesti,19,Wanita,Kecamatan Sukomanunggal,Belum menikah,Mahasiswa,Latte,37000,Manis,Dingin,Malam,7,saisho Coffee
+2024,Alyssa Cempaka Dewi,21,Wanita,Kecamatan Benowo,Belum menikah,Mahasiswa,Latte,23000,Manis,Dingin,Malam,4,
+2024,Benedicta Rahmadani Putri,21,Wanita,Kecamatan Pakal,Belum menikah,Mahasiswa,Mocha,34000,Kecut,Dingin,Malam,8,kabar baik
+2024,Gabriella Aulia Sari,19,Wanita,Kecamatan Pakal,Belum menikah,Mahasiswa,Mocha,31000,Kecut,Dingin,Malam,6,kabar baik
+2024,Hana Syafira Dewi,20,Wanita,Kecamatan Lakarsantri,Belum menikah,Mahasiswa,Mocha,32000,Kecut,Dingin,Malam,8,Telulas kopi
+2024,Indira Rini Putri,21,Wanita,Kecamatan Lakarsantri,Belum menikah,Mahasiswa,Mocha,33000,Kecut,Dingin,Malam,8,Titik Nol
+2024,Indira Rini Putri,22,Wanita,Kecamatan Lakarsantri,Belum menikah,Mahasiswa,Mocha,25000,Kecut,Dingin,Malam,8,Telulas kopi
+2024,Jasmine Rahayu Pratiwi,23,Wanita,Kecamatan Sambikerep,Belum menikah,Mahasiswa,Mocha,34000,Kecut,Dingin,Malam,4,Black Kawa
+2024,Lia Andini Putri,19,Wanita,Kecamatan Sambikerep,Belum menikah,Mahasiswa,Mocha,23000,Kecut,Dingin,Malam,7,Titik Koma
+2024,Melisa Sari Maharani,22,Wanita,Kecamatan Pabean Cantian,Belum menikah,Mahasiswa,Mocha,13000,Kecut,Dingin,Malam,6,Kedai Happy
+2024,Olivia Rahmatika Dewi,24,Wanita,Kecamatan Semampir,Belum menikah,Mahasiswa,Mocha,33000,Kecut,Dingin,Malam,7,Point Coffee
+2024,Putu Dania Pramesti,21,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Mocha,21000,Kecut,Dingin,Malam,7,Kopi Kenangan
+2024,Qonita Melati Wulandari,22,Wanita,Kecamatan Wonokromo,Belum menikah,Mahasiswa,Mocha,23000,Kecut,Dingin,Malam,5,brain coffee
+2024,Tariqah Wulan Sari,21,Wanita,Kecamatan Benowo,Belum menikah,Mahasiswa,Mocha,34000,Kecut,Dingin,Malam,6,
+2024,Vera Sari Dewi,21,Wanita,Kecamatan Benowo,Belum menikah,Mahasiswa,Mocha,23000,Kecut,Dingin,Malam,6,
+2024,Yulia Dewi Pratama,24,Wanita,Kecamatan Wonocolo,Belum menikah,Mahasiswa,Mocha,23000,Kecut,Dingin,Malam,5,kopi soe
+2024,adli,21,Pria,Kecamatan Wiyung,Belum menikah,mahasiswa,Kopi Susu,17000,Pahit,Dingin,Siang,5,kopi kenangan
+2024,Andika Putra,21,Pria,Kecamatan Lakarsantri,Belum menikah,Mahasiswa,Latte,18000,Manis,Dingin,Malam,3,Telulas kopi
+2024,Ahmad Rafiq Alamsyah,18,Pria,Kecamatan Genteng,Belum menikah,Mahasiswa,Latte,27000,Manis,Panas,Malam,6,Kopi Kenangan
+2024,Zizi Hapsari,22,Wanita,Kecamatan Genteng,Belum menikah,Desainer Grafis,Kopi Susu,27000,Manis,Dingin,Sore,7,Narcos Coffee
+2024,Bella Sari,21,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Latte,30000,Manis,Dingin,Sore,7,Starbucks
+2024,Dian Pertiwi,23,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Kopi Susu,33000,Manis,Dingin,Sore,8,Belikopi
+2024,Erik Wijaya,24,Pria,Kecamatan Simokerto,Belum menikah,Digital Marketing,Latte,31000,Manis,Dingin,Sore,7,Kopi Dari Hati
+2024,Fina Sari,22,Wanita,Kecamatan Bubutan,Belum menikah,Penulis,Latte,32000,Manis,Panas,Malam,10,Belikopi
+2024,Galih Saputra,25,Pria,Kecamatan Bubutan,Sudah menikah,Guru,Latte,30000,Manis,Dingin,Malam,10,Belikopi
+2024,Hilda Pratiwi,21,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Latte,29000,Manis,Dingin,Malam,7,Kopi Janji Jiwa
+2024,Irfan Nugroho,25,Pria,Kecamatan Genteng,Belum menikah,Pengusaha,Kopi Susu,33000,Manis,Dingin,Malam,8,Narcos Coffee
+2024,Jihan Aulia,18,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Kopi Susu,27000,Manis,Panas,Malam,9,Kopi Kenangan
+2024,Kharis Aditya,23,Pria,Kecamatan Genteng,Belum menikah,Mahasiswa,Latte,30000,Manis,Dingin,Sore,6,Starbucks
+2024,Lita Nabila,20,Wanita,Kecamatan Simokerto,Belum menikah,Mahasiswa,Latte,29000,Manis,Dingin,Sore,9,Kopi Dari Hati
+2024,Nisa Fitriani,23,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Latte,27000,Manis,Dingin,Malam,11,Belikopi
+2024,Oki Ramadhan,24,Pria,Kecamatan Simokerto,Belum menikah,Ekonom,Kopi Susu,32000,Pahit,Panas,Malam,9,Kopi Dari Hati
+2024,Poppy Dwi,25,Wanita,Kecamatan Bubutan,Belum menikah,Guru,Kopi Susu,31000,Manis,Dingin,Sore,12,Kopi Janji Jiwa
+2024,Qori Rizki,21,Pria,Kecamatan Tegalsari,Belum menikah,Mahasiswa/pelajar,Kopi Susu,32000,Manis,Dingin,Sore,11,Haya Coffee Shop
+2024,Rina Pratiwi,23,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Latte,33000,Manis,Panas,Sore,7,Narcos Coffee
+2024,Tika Sari,21,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Latte,27000,Manis,Dingin,Sore,35000,Starbucks
+2024,Udin Prabowo,24,Pria,Kecamatan Tegalsari,Belum menikah,Konsultan,Latte,31000,Manis,Dingin,Malam,8,Haya Coffee Shop
+2024,Vina Wulandari,22,Wanita,Kecamatan Simokerto,Belum menikah,Mahasiswa,Latte,30000,Manis,Dingin,Sore,7,Kopi Kenangan
+2024,Wira Agung,23,Pria,Kecamatan Kenjeran,Belum menikah,Mahasiswa,Americano,30000,Pahit,Panas,Pagi,7,kopi kenangan
+2024,Yani Lestari,24,Wanita,Kecamatan Genteng,Belum menikah,Pemasaran,Kopi Susu,26500,Manis,Panas,Sore,12,Kopi Janji Jiwa
+2024,Zainal Hadi,25,Pria,Kecamatan Simokerto,Belum menikah,Guru,Kopi Susu,31000,Manis,Dingin,Sore,9,Buono Kopi
+2024,Bagus Lestari,17,Wanita,Kecamatan Simokerto,Belum menikah,Pelajar,Latte,28000,Manis,Dingin,Malam,9,Kopi Kenangan
+2024,Dani Ramadhan,25,Pria,Kecamatan Bubutan,Sudah menikah,Ekonom,Latte,26500,Manis,Dingin,Malam,7,Belikopi
+2024,Erna Kurnia,22,Wanita,Kecamatan Bubutan,Belum menikah,Desainer,Latte,29000,Manis,Panas,Sore,9,Kopi Kenangan
+2024,Fajar Rahman,21,Pria,Kecamatan Simokerto,Belum menikah,Mahasiswa,Latte,28000,Manis,Panas,Sore,8,Janji Jiwa
+2024,Gita Maharani,23,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Latte,27000,Manis,Dingin,Sore,7,Kopi Kenangan
+2024,Hanafi Hasan,24,Wanita,Kecamatan Simokerto,Belum menikah,Teknisi,Latte,27000,Manis,Panas,Sore,7,Kopi Janji Jiwa
+2024,Indah Pertiwi,22,Wanita,Kecamatan Simokerto,Belum menikah,Mahasiswa,Kopi Susu,27000,Manis,Panas,Siang,7,Buono Kopi
+2024,Joko Santoso,25,Pria,Kecamatan Simokerto,Belum menikah,Penulis,Latte,26500,Manis,Dingin,Sore,8,Buono Kopi
+2024,Kiki Wulandari,23,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Latte,28000,Manis,Panas,Malam,7,Kopi Kenangan
+2024,Mardiono Setiawan,24,Pria,Kecamatan Genteng,Belum menikah,Desainer,Kopi Susu,28500,Manis,Panas,Malam,8,Kopi Padma
+2024,Nadia Wulandari,22,Wanita,Kecamatan Genteng,Belum menikah,Penulis,Latte,28700,Manis,Panas,Sore,13,Kopi Padma
+2024,Omar Pratama,25,Pria,Kecamatan Genteng,Belum menikah,Pengusaha,Kopi Susu,26500,Manis,Panas,Sore,12,Janji Jiwa
+2024,Prita Ramadhan,20,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Kopi Susu,26000,Manis,Dingin,Malam,10,Kopi Janji Jiwa
+2024,Tommy Hidaya,21,Pria,Kecamatan Simokerto,Belum menikah,Mahasiswa,Kopi Susu,28900,Manis,Dingin,Siang,12,Outlet By Coffee
+2024,Wulan Permata,23,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Espresso,28900,Manis,Dingin,Siang,30000,Kopi Nama Baik
+2024,Xander Hadi,21,Pria,Kecamatan Bubutan,Belum menikah,Mahasiswa,Kopi Susu,28300,Manis,Dingin,Sore,6,Belikopi
+2024,Beny Setiawan,24,Pria,Kecamatan Genteng,Belum menikah,Pengembang Web ,Latte,31500,Manis,Dingin,Sore,5,Starbucks
+2024,Cindy Pratiwi,22,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Kopi Susu,28300,Manis,Dingin,Sore,6,Kopi Kenangan
+2024,Dedi Sulaiman,25,Pria,Kecamatan Genteng,Belum menikah,Ekonom,Kopi Susu,28700,Manis,Dingin,Sore,8,Kopi Nama Baik
+2024,Evi Lestari,23,Wanita,Kecamatan Simokerto,Belum menikah, Pekerja Sosial,Latte,26000,Manis,Dingin,Sore,7,Janji Jiwa
+2024,Farhan Rizki,20,Pria,Kecamatan Simokerto,Belum menikah,Mahasiswa,Latte,28000,Manis,Dingin,Sore,9,Outlet By Coffee
+2024,Hadi Pratama,25,Wanita,Kecamatan Bubutan,Belum menikah,Konsultan Pajak,Cappuccino,28000,Pahit,Dingin,Sore,9,Kopi Kenangan
+2024,Ina Fitria,17,Wanita,Kecamatan Bubutan,Belum menikah,Pelajar,Kopi Susu,27900,Manis,Dingin,Sore,15,Kopi Kenangan
+2024,Joko Ramadhan,25,Pria,Kecamatan Simokerto,Sudah menikah,Staff Akuntan,Latte,33000,Manis,Dingin,Malam,9,Kopi Kenangan
+2024,Lala Wulandari,23,Wanita,Kecamatan Tegalsari,Belum menikah,Desainer,Latte,30000,Manis,Dingin,Sore,8,Kopi Enam Hari
+2024,Nita Dewi,21,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Latte,29900,Manis,Dingin,Sore,6,Kopi Kenangan
+2024,Poppy Lestari,22,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Latte,29000,Manis,Dingin,Pagi,10,Kopi Janji Jiwa
+2024,Fajar Hadi,25,Pria,Kecamatan Bubutan,Sudah menikah,Staff Marketing,Kopi Susu,29000,Manis,Dingin,Sore,7,Kopi Kenangan
+2024,Yani Pratiwi,24,Wanita,Kecamatan Genteng,Belum menikah,Akuntan,Latte,27000,Manis,Dingin,Malam,8,Kopi Janji Jiwa
+2024,Adelia Putri,23,Wanita,Kecamatan Tegalsari,Belum menikah,Mahasiswa,Kopi Susu,27900,Manis,Dingin,Sore,8,Ada Apa Dengan Kopi
+2024,Bagus Rahardjo,24,Pria,Kecamatan Genteng,Belum menikah,Penulis,Americano,26500,Pahit,Panas,Pagi,9,Narcos Coffee
+2024,Clara Sari,21,Wanita,Kecamatan Simokerto,Belum menikah,Mahasiswa,Cappuccino,30000,Pahit,Dingin,Siang,10,Buono Kopi
+2024,Dani Wulandari,22,Wanita,Kecamatan Genteng,Belum menikah,Kopi Padma,Kopi Susu,32000,Manis,Dingin,Malam,6,Kopi Nama Baik
+2024,Jihan Maharani,25,Wanita,Kecamatan Bubutan,Sudah menikah,Konsultan Pajak,Espresso,32000,Pahit,Dingin,Siang,12,Kopi Kenangan
+2024,Miko Wibowo,24,Pria,Kecamatan Tegalsari,Belum menikah,Desainer,Kopi Susu,30000,Manis,Dingin,Sore,6,Kopi Enam Hari
+2024,Omar Dewi,25,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Kopi Susu,27900,Manis,Dingin,Sore,6,Kopi Nama Baik
+2024,Rizki Ramadhan,21,Pria,Kecamatan Bubutan,Belum menikah,Mahasiswa,Latte,26000,Manis,Dingin,Sore,8,Belikopi
+2024,Sinta Agustin,24,Wanita,Kecamatan Simokerto,Belum menikah,Desainer,Latte,29000,Manis,Dingin,Sore,8,Outlet By Coffee
+2024,Tommy Lestari,35,Pria,Kecamatan Simokerto,Sudah menikah,Penulis,Cappuccino,28900,Pahit,Dingin,Sore,9,Buono Coffee
+2024,Ulfa Pertiwi,35,Wanita,Kecamatan Kenjeran,Belum menikah,Eknom,Latte,29800,Pahit,Dingin,Siang,8,eiji Coffe Corner
+2024,Vicky Hadi,32,Pria,Kecamatan Krembangan,Belum menikah,Pemasaran,Kopi Susu,29000,Pahit,Dingin,Sore,9,Nude Coffee
+2024,Xander Pratama,22,Pria,Kecamatan Simokerto,Belum menikah,Mahasiswa,Kopi Susu,33000,Manis,Dingin,Sore,8,Kopi Dari Hati
+2024,Yuli Dwi,23,Wanita,Kecamatan Pabean Cantian,Belum menikah,Pekerja Sosial,Latte,29000,Pahit,Dingin,Siang,9,Kedai Happy
+2024,Zainal Wibowo,24,Pria,Kecamatan Bubutan,Belum menikah,Konsultan ,Kopi Susu,34000,Manis,Dingin,Sore,9,Garasi Coffee
+2024,Aulia Fitriani,20,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Kopi Susu,29000,Manis,Dingin,Sore,7,Narcos Coffee
+2024,Clara Dewi,22,Wanita,Kecamatan Simokerto,Belum menikah,Penulis,Latte,29800,Manis,Dingin,Sore,7,Kopi Dari Hati
+2024,Dani Pratama,25,Pria,Kecamatan Genteng,Sudah menikah,Staff Pajak,Latte,28500,Manis,Dingin,Sore,13,Kopi Padma
+2024,Erna Wulandari,21,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswa,Latte,30000,Manis,Dingin,Sore,14,Kopi Kenangan
+2024,Galih Saputra,22,Pria,Kecamatan Bubutan,Belum menikah,Mahasiswa,Kopi Susu,32000,Manis,Dingin,Sore,6,Garasi Coffee
+2024,Hanafi Ramadhan,23,Pria,Kecamatan Bubutan,Belum menikah,Mahasiswa,Kopi Susu,32000,Manis,Dingin,Sore,8,Kopi Kenangan
+2024,Indah Sari,25,Wanita,Kecamatan Genteng,Belum menikah,Pekerja Sosial,Kopi Susu,33000,Manis,Dingin,Sore,9,Narcos Coffee
+2024,Jihan Adelia,21,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Latte,31000,Manis,Dingin,Sore,9,Kopi Padma
+2024,Lita Dewi,24,Pria,Kecamatan Gubeng,Belum menikah,Mahasiswa,Kopi Susu,29800,Manis,Dingin,Sore,12,Urban Latte
+2024,Miko Ramadhan,23,Pria,Kecamatan Gubeng,Belum menikah,Mahasiswa,Latte,34900,Manis,Dingin,Sore,12,Titik Koma
+2024,Nadia Pratiwi,25,Wanita,Kecamatan Bubutan,Belum menikah,Desainer Grafis,Kopi Susu,32000,Manis,Dingin,Sore,13,Garasi Coffee
+2024,"Prita Sari,",21,Wanita,Kecamatan Gunung Anyar,Belum menikah,Mahasiswa,Espresso,31000,Pahit,Dingin,Siang,8,Fisixty
+2024,Sinta Putri,22,Wanita,Kecamatan Tandes,Belum menikah,Mahasiswa,Latte,33000,Manis,Panas,Sore,2,Hue Coffee
+2024,Ulfa Rahma,25,Wanita,Kecamatan Sukomanunggal,Belum menikah,Guru,Latte,31000,Manis,Dingin,Sore,3,saisho Coffee
+2024,Vicky Sari,21,Pria,Kecamatan Bubutan,Belum menikah,Mahasiswa,Latte,28500,Manis,Dingin,Sore,9,Garasi Coffee
+2024,Wulan Hadi,22,Wanita,Kecamatan Gubeng,Belum menikah,Desainer,Latte,28700,Manis,Dingin,Sore,7,Titik Koma
+2024,Xander Prabowo,23,Wanita,Kecamatan Gubeng,Belum menikah,Mahasiswa,Kopi Susu,33600,Manis,Dingin,Sore,8,Kopi Karmen
+2024,Zainal Fitri,20,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Latte,31000,Manis,Panas,Sore,9,Titik Koma
+2024,Aulia Hapsari,21,Wanita,Kecamatan Tandes,Belum menikah,Mahasiswa,Kopi Susu,29700,Manis,Dingin,Sore,3,Janji Jiwa
+2024,Benny Rahardjo,23,Pria,Kecamatan Bubutan,Belum menikah,Mahasiswa,Latte,28900,Manis,Dingin,Sore,9,Garasi Coffee
+2024,Dani Hadi,25,Pria,Kecamatan Genteng,Belum menikah,Pemasaran,Latte,29000,Manis,Dingin,Sore,10,Kopi Padma
+2024,Fajar Wulandari,22,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Latte,29300,Manis,Dingin,Sore,9,Kopi Nama Baik
+2024,Hanafi Adi,23,Pria,Kecamatan Genteng,Belum menikah,Mahasiswa,Latte,27800,Manis,Dingin,Sore,12,Kopi padma
+2024,Indah Sari,21,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Latte,32900,Manis,Dingin,Sore,9,Kopi Padma
+2024,Lita Hapsari,23,Wanita,Kecamatan Simokerto,Belum menikah,Mahasiswa,Latte,29300,Manis,Dingin,Malam,9,Outlet By Coffee
+2024,Miko Putri,21,Wanita,Kecamatan Simokerto,Belum menikah,Mahasiswa,Latte,29000,Manis,Dingin,Sore,12,Buono Coffee
+2024,Nadia Wulandari,17,Wanita,Kecamatan Simokerto,Belum menikah,pelajar,Latte,32000,Manis,Dingin,Sore,15,Kopi Dari Hati
+2024,Andika Pratama Rahadian,21,Pria,Kecamatan Simokerto,Belum menikah,Mahasiswa ,Latte,28900,Manis,Dingin,Sore,8,Kopi Dari Hati
+2024,Bayu Putra Nugraha,22,Wanita,Kecamatan Tegalsari,Belum menikah,Mahasiswa ,Latte,28900,Manis,Dingin,Sore,9,Ada Apa Dengan Kopi
+2024,Cahyo Prakoso Wibowo,20,Pria,Kecamatan Gubeng,Belum menikah,Mahasiswa ,Kopi Susu,31000,Manis,Dingin,Sore,13,Urban Latte
+2024,Damar Surya Widodo ,23,Pria,Kecamatan Gubeng,Belum menikah,Mahasiswa ,Latte,29000,Manis,Dingin,Malam,13,Titik Koma
+2024,Eko Santoso Purwanto,19,Pria,Kecamatan Gubeng,Belum menikah,pelajar,Latte,31000,Manis,Dingin,Sore,15,Kopi Karmen
+2024,Fajar Hidayatullah Anugrah,22,Pria,Kecamatan Gubeng,Belum menikah,mahasiswa,Latte,32000,Manis,Dingin,Sore,12,Kopi Karmen
+2024,Gilang Ramadhan Saputra ,17,Pria,Kecamatan Gubeng,Belum menikah,Pelajar,Latte,29000,Manis,Dingin,Sore,12,Urban Latte
+2024,Hendra Budi Pratama,18,Pria,Kecamatan Gubeng,Belum menikah,Pelajar,Kopi Susu,29500,Manis,Dingin,Sore,14,Urban Latte
+2024,Ilham Akbar Pratomo,19,Pria,Kecamatan Gubeng,Belum menikah,Mahasiswa ,Latte,28000,Manis,Dingin,Malam,9,Urban Latte
+2024,Joko Santoso Widjaja ,20,Pria,Kecamatan Tegalsari,Belum menikah,20,Kopi Susu,26000,Manis,Dingin,Sore,7,Ada Apa Dengan Kopi
+2024,Aulia Salsabila Putri ,22,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswa,Kopi Susu,28700,Manis,Dingin,Sore,6,Narcos Coffee
+2024,Bella Santika Rahayu,23,Wanita,Kecamatan Genteng,Belum menikah,Mahasiswi ,Latte,32000,Manis,Dingin,Sore,12,Kopi nama Baik
+2024,Citra Puspitasari Putri,35,Wanita,Kecamatan Simokerto,Sudah menikah,Mahasiswi ,Latte,27500,Manis,Dingin,Sore,8,Kopi Dari Hati
+2024,Dewi Ayu Pramesti ,40,Wanita,Kecamatan Tegalsari,Sudah menikah,Mahasiswi ,Latte,31500,Manis,Dingin,Sore,8,Ada Apa Dengan Kopi
+2024,Elsa Maharani Lestari ,35,Wanita,Kecamatan Simokerto,Sudah menikah,Mahasiswi ,Latte,27000,Manis,Dingin,Malam,8,Buono Kopi
+2024,Fitri Andini Safitri,44,Wanita,Kecamatan Tegalsari,Sudah menikah,Pelajar,Kopi Susu,29000,Manis,Dingin,Sore,8,Kopi Enam Hari
+2024,Gita Putri Maharani,20,Wanita,Kecamatan Tegalsari,Belum menikah,Mahasiswi ,Latte,31900,Manis,Dingin,Sore,9,Kopi enam Hari
+2024,Hani Lestari Putri,23,Wanita,Kecamatan Simokerto,Belum menikah,Mahasiswi ,Latte,28900,Manis,Dingin,Sore,8,Kopi Dari Hati
+2024,Intan Nur Hidayati ,21,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswi,Kopi Susu,32000,Manis,Dingin,Malam,8,Kopi Kenangan
+2024,Jessica Permata Putri ,22,Wanita,Kecamatan Bubutan,Belum menikah,Mahasiswi ,Latte,27500,Manis,Dingin,Sore,9,Garasi Coffee
+2024,Lina Sari Putri ,20,Wanita,Kecamatan Kenjeran,Belum menikah,Mahasiswi ,Mocha,32000,Manis,Dingin,Siang,12,Eiji Coffe Corner
+2024,Kevin Arya Wicaksono,21,Pria,Kecamatan Krembangan,Belum menikah,Mahasiswa ,Cappuccino,27800,Pahit,Dingin,Siang,9,Nude Coffee
+2024,Lutfi Pratama Putra,22,Pria,Kecamatan Semampir,Belum menikah,Mahasiswa ,Mocha,32000,Manis,Dingin,Sore,9,Point Coffee
+2024,Miko Ardiansyah Putra,21,Pria,Kecamatan Benowo,Belum menikah,Mahasiswa ,Latte,27000,Manis,Dingin,Sore,9,Nimus Coffee
+2024,Naufal Rizki Pradana,18,Pria,Kecamatan Pakal,Belum menikah,Pelajar,Kopi Susu,28000,Manis,Dingin,Malam,9,Olakino Kafe
+2024,Oka Pratama Nugroho ,17,Pria,Kecamatan Lakarsantri,Belum menikah,Pelajar,Mocha,32000,Manis,Dingin,Malam,33000,Titik Nol
+2024,Pandu Fajar Setiawan,22,Pria,Kecamatan Gunung Anyar,Belum menikah,Mahasiswa ,Cappuccino,27000,Pahit,Dingin,Siang,9,Bento Kopi
+2024,Rendi Bagus Rahmatullah,23,Wanita,Kecamatan Tandes,Belum menikah,Mahasiswa ,Latte,28000,Manis,Dingin,Siang,9,Hue coffee
+2024,Satria Hadi Pratama,24,Pria,Kecamatan Mulyorejo,Belum menikah,Mahasiswa ,Espresso,28000,Pahit,Panas,Pagi,8,Tomoro
+2024,Teguh Cahyo Ramadhan,20,Pria,Kecamatan Mulyorejo,Belum menikah,Mahasiswa ,Kopi Hitam,29000,Pahit,Panas,Pagi,8,Titik Koma
+2024,Umar Rizki Anggoro,19,Pria,Kecamatan Mulyorejo,Belum menikah,Mahasiswa ,Cappuccino,32000,Pahit,Dingin,Sore,9,Ryu Coffee Shop
+2024,Jasmine Rahayu Pratiwi,23,Wanita,Kecamatan Sambikerep,Belum menikah,Mahasiswa,Mocha,34000,Kecut,Dingin,Malam,4,Black Kawa
+2024,Kania Ramadhani Wulan,23,Wanita,Kecamatan Sambikerep,Belum menikah,Mahasiswa,Mocha,32000,Kecut,Dingin,Malam,8,Black Kawa
+2024,Lia Andini Putri,19,Wanita,Kecamatan Sambikerep,Belum menikah,Mahasiswa,Mocha,23000,Kecut,Dingin,Malam,7,Titik Koma
+2024,Vera Oktaviani Pramesti,19,Wanita,Kecamatan Sukomanunggal,Belum menikah,Mahasiswa,Latte,37000,Kecut,Dingin,Malam,2,saisho Coffee
+2024,Wulan Sari Indah,18,Wanita,Kecamatan Sukomanunggal,Belum menikah,Mahasiswa,Latte,23000,Kecut,Dingin,Malam,7,Bleuing coffee
+2024,Yulia Rahmadani Putri,18,Wanita,Kecamatan Sukomanunggal,Belum menikah,Mahasiswa,Latte,26000,Kecut,Dingin,Malam,6,Bleuing coffee
+2024,Siti Khodilmunah,17,Wanita,Kecamatan Asem Rowo,Belum menikah,Pelajar,Latte,18000,Manis,Dingin,Malam,8,Kedai kopi maria

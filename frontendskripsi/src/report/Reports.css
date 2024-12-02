@@ -1,0 +1,66 @@
+.report-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #2c2f33; /* Warna latar belakang */
+  color: white;
+  padding: 20px;
+  background-image: url('https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Ganti dengan URL gambar Anda */
+  background-size: cover; /* Agar gambar memenuhi container */
+  background-position: center; /* Memusatkan gambar */
+  background-repeat: no-repeat; /* Agar gambar tidak diulang */
+  animation: fadeIn 1s ease-in-out; /* Terapkan animasi */
+}
+
+
+
+.report-title {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.chart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Grafik berada di tengah secara vertikal */
+  margin: 20px;
+  background-color: #23272a; /* Warna latar belakang grafik */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15); /* Efek bayangan */
+}
+
+.chart-title {
+  text-align: center;
+  font-size: 1.5em;
+  margin-bottom: 15px;
+  color: #ffffff;
+}
+
+.doughnut-chart-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.chart-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Grafik berada di tengah secara horizontal */
+  margin-bottom: 30px;
+}
+
+/* Animasi untuk transisi halaman */
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+      transform: translateY(20px);
+  }
+  to {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+

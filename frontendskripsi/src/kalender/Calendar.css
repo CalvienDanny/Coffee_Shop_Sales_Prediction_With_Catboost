@@ -1,0 +1,203 @@
+.calendar {
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  animation: fadeIn 1s ease-in-out; /* Terapkan animasi */
+}
+
+.calendar:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+}
+
+.calendar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3f51b5;
+  color: #fff;
+  padding: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.calendar-header:hover {
+  background-color: #2e3e9a;
+}
+
+.calendar-header h2 {
+  font-size: 1.5em;
+  margin: 0;
+}
+
+.calendar-header button {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 1.5em;
+  cursor: pointer;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.calendar-header button:hover {
+  color: #ffd600;
+  transform: scale(1.2);
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  padding: 10px;
+  background-color: #f8f8f8;
+  flex-grow: 1;
+}
+
+.calendar-day-header,
+.calendar-day {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  border: 1px solid #ddd;
+  position: relative;
+  transition: background-color 0.3s ease, transform 0.3s ease, color 0.3s ease;
+}
+
+.calendar-day-header {
+  font-weight: bold;
+  color: #555;
+  background-color: #eee;
+}
+
+.calendar-day {
+  min-height: 60px;
+  color: #333;
+}
+
+.calendar-day:hover {
+  background-color: #3f51b5;
+  color: white;
+  transform: scale(1.05);
+}
+
+.calendar-day.empty {
+  background-color: #f9f9f9;
+}
+
+.holiday {
+  background-color: #d33535; /* Warna merah untuk hari libur */
+  color: white;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.holiday:hover {
+  background-color: #b32424;
+  transform: scale(1.05);
+}
+
+.leave {
+  background-color: #ffd600; /* Warna kuning untuk cuti bersama */
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.leave:hover {
+  background-color: #fbc02d;
+  transform: scale(1.05);
+}
+
+.weekend {
+  background-color: #d33535; /* Warna untuk akhir pekan */
+  color: white;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.weekend:hover {
+  background-color: #b32424;
+  transform: scale(1.05);
+}
+
+.event-info {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+  transition: background-color 0.3s ease;
+}
+
+.event-info:hover {
+  background-color: #f9f9f9;
+}
+
+.event-info-left,
+.event-info-right {
+  width: 48%; /* Atur lebar masing-masing menjadi 48% */
+}
+
+.holiday-event {
+  color: #d33535; /* Warna merah untuk teks hari libur */
+  padding: 0 5px;
+  transition: color 0.3s ease;
+}
+
+.holiday-event:hover {
+  color: #b32424;
+}
+
+.leave-event {
+  color: #f57f20; /* Warna oranye untuk teks cuti bersama */
+  padding: 0 5px;
+  text-align: right;
+  transition: color 0.3s ease;
+}
+
+.leave-event:hover {
+  color: #d4881c;
+}
+
+.no-holiday,
+.no-leave {
+  font-style: italic;
+  color: #666;
+  text-align: left;
+  transition: color 0.3s ease;
+}
+
+.no-holiday:hover,
+.no-leave:hover {
+  color: #333;
+}
+
+.holiday-definition,
+.leave-definition {
+  margin-top: 10px;
+}
+
+.holiday-definition h5,
+.leave-definition h5 {
+  margin-bottom: 5px;
+  transition: color 0.3s ease;
+}
+
+.holiday-definition h5:hover,
+.leave-definition h5:hover {
+  color: #3f51b5;
+}
+
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+      transform: translateY(20px);
+  }
+  to {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
